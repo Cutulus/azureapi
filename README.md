@@ -24,45 +24,45 @@ If you have completed all these tasks to update the project, then the app should
 ## Package Repos
 
 1. cors
-  1. [GitHub](github.com/expressjs/cors)
-  2. [NPM](https://www.npmjs.com/package/cors)
-  3. [Homepage](https://github.com/expressjs/cors#readme)
+  - [GitHub](github.com/expressjs/cors)
+  - [NPM](https://www.npmjs.com/package/cors)
+  - [Homepage](https://github.com/expressjs/cors#readme)
 2. dotenv
-  1. [GitHub](github.com/motdotla/dotenv)
-  2. [NPM](https://www.npmjs.com/package/dotenv)
-  3. [Homepage](https://www.dotenv.org/)
+  - [GitHub](github.com/motdotla/dotenv)
+  - [NPM](https://www.npmjs.com/package/dotenv)
+  - [Homepage](https://www.dotenv.org/)
 3. express
-  1. [GitHub](github.com/expressjs/express)
-  2. [NPM](https://www.npmjs.com/package/express)
-  3. [Homepage](http://expressjs.com/)
+  - [GitHub](github.com/expressjs/express)
+  - [NPM](https://www.npmjs.com/package/express)
+  - [Homepage](http://expressjs.com/)
 4. express-async-errors
-  1. [GitHub](https://github.com/davidbanham/express-async-errors)
-  2. [NPM](https://www.npmjs.com/package/express-async-errors)
-  3. [Homepage](https://github.com/davidbanham/express-async-errors#readme)
+  - [GitHub](https://github.com/davidbanham/express-async-errors)
+  - [NPM](https://www.npmjs.com/package/express-async-errors)
+  - [Homepage](https://github.com/davidbanham/express-async-errors#readme)
 5. mongodb
-  1. [GitHub](https://github.com/mongodb/node-mongodb-native)
-  2. [NPM](https://www.npmjs.com/package/mongodb)
-  3. [Homepage](www.mongodb.com)
+  - [GitHub](https://github.com/mongodb/node-mongodb-native)
+  - [NPM](https://www.npmjs.com/package/mongodb)
+  - [Homepage](www.mongodb.com)
 6. morgan
-  1. [GitHub](https://github.com/expressjs/morgan)
-  2. [NPM](https://www.npmjs.com/package/morgan)
-  3. [Homepage](https://github.com/expressjs/morgan#readme)
+  - [GitHub](https://github.com/expressjs/morgan)
+  - [NPM](https://www.npmjs.com/package/morgan)
+  - [Homepage](https://github.com/expressjs/morgan#readme)
 7. webpack
-  1. [GitHub]()
-  2. [NPM](https://www.npmjs.com/package/)
-  3. [Homepage]()
+  - [GitHub]()
+  - [NPM](https://www.npmjs.com/package/)
+  - [Homepage]()
 8. webpack-cli
-  1. [GitHub]()
-  2. [NPM](https://www.npmjs.com/package/)
-  3. [Homepage]()
+  - [GitHub]()
+  - [NPM](https://www.npmjs.com/package/)
+  - [Homepage]()
 9. webpack-node-externals
-  1. [GitHub]()
-  2. [NPM](https://www.npmjs.com/package/)
-  3. [Homepage]()
+  - [GitHub]()
+  - [NPM](https://www.npmjs.com/package/)
+  - [Homepage]()
 10. XXX Next Package
-  1. [GitHub]()
-  2. [NPM](https://www.npmjs.com/package/)
-  3. [Homepage]()
+  - [GitHub]()
+  - [NPM](https://www.npmjs.com/package/)
+  - [Homepage]()
 
 ## Routes
 
