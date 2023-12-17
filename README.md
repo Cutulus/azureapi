@@ -48,17 +48,17 @@ If you have completed all these tasks to update the project, then the app should
   - [NPM](https://www.npmjs.com/package/morgan)
   - [Homepage](https://github.com/expressjs/morgan#readme)
 7. webpack
-  - [GitHub]()
-  - [NPM](https://www.npmjs.com/package/)
-  - [Homepage]()
+  - [GitHub](https://github.com/webpack/webpack)
+  - [NPM](https://www.npmjs.com/package/webpack)
+  - [Homepage](https://webpack.js.org/)
 8. webpack-cli
-  - [GitHub]()
-  - [NPM](https://www.npmjs.com/package/)
-  - [Homepage]()
+  - [GitHub](https://github.com/webpack/webpack-cli)
+  - [NPM](https://www.npmjs.com/package/webpack-cli)
+  - [Homepage](https://github.com/webpack/webpack-cli/tree/master/packages/webpack-cli)
 9. webpack-node-externals
-  - [GitHub]()
-  - [NPM](https://www.npmjs.com/package/)
-  - [Homepage]()
+  - [GitHub](https://github.com/liady/webpack-node-externals)
+  - [NPM](https://www.npmjs.com/package/webpack-node-externals)
+  - [Homepage](https://github.com/liady/webpack-node-externals)
 10. XXX Next Package
   - [GitHub]()
   - [NPM](https://www.npmjs.com/package/)
